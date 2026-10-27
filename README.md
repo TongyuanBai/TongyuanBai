@@ -5,7 +5,7 @@ Statistical modelling and machine learning for high-dimensional data: variable s
 ### Publications
 
 - T. Bai, X. Peng, B. Xu and P. He. Adaptive interval selection for near-infrared spectra via fused lasso and backward interval PLS. *Journal of Chemometrics* 40(7): e70157, 2026. [doi:10.1002/cem.70157](https://doi.org/10.1002/cem.70157) · code: [Fused-BiPLS-NIR](https://github.com/TongyuanBai/Fused-BiPLS-NIR)
-- Graph-based semi-supervised approach to food adulteration detection from analytical data with limited labels. · code: [ADGSSL](https://github.com/TongyuanBai/ADGSSL)
+- T. Bai, K. Huang, B. Xu and P. He. Graph-based semi-supervised approach to food adulteration detection from analytical data with limited labels. *Chemometrics and Intelligent Laboratory Systems* 276: 105795, 2026. [doi:10.1016/j.chemolab.2026.105795](https://doi.org/10.1016/j.chemolab.2026.105795) · code: [ADGSSL](https://github.com/TongyuanBai/ADGSSL)
 
 ### Projects
 
